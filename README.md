@@ -22,3 +22,4 @@ Welcome everyone to contribute to this project!
 - [table_element_statistics_and_deletion.py](https://github.com/Henry-Jia/python-tools/blob/master/table_element_statistics_and_deletion.py): excel table element statistics and deletion
 - [wechat_friends_analyse](https://github.com/Henry-Jia/python-tools/tree/master/wechat_friends_analyse): WeChat friends statistics and analysis tools
 
+-[factorial.py](https://github.com/Henry-Jia/python-tools/blob/master/factorial.py): A simple program to calculate the factorial of a number 
