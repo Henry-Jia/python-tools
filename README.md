@@ -13,6 +13,7 @@ Welcome everyone to contribute to this project!
 - [circle_using_square.py](https://github.com/Henry-Jia/python-tools/blob/master/circle_using_square.py): circle using number of squares
 - [draw_PeppaPig.py](https://github.com/Henry-Jia/python-tools/blob/master/draw_PeppaPig.py): draw PeppaPig with Python
 - [electricity_consumption.py](https://github.com/Henry-Jia/python-tools/blob/master/electricity_consumption.py): calculates electricity consumed
+- [factorial.py](https://github.com/Henry-Jia/python-tools/blob/master/factorial.py): a simple program to calculate the factorial of a number 
 - [fibonacci.py](https://github.com/Henry-Jia/python-tools/blob/master/fibonacci.py): there're 2 algorithms that make the fibonacci with recursive and looping
 - [img2video.py](https://github.com/Henry-Jia/python-tools/blob/master/img2video.py): turn images to video
 - [insfans_bot.py](https://github.com/Henry-Jia/python-tools/blob/master/insfans.py): Ins bot for fans
@@ -28,4 +29,3 @@ Welcome everyone to contribute to this project!
 - [table_element_statistics_and_deletion.py](https://github.com/Henry-Jia/python-tools/blob/master/table_element_statistics_and_deletion.py): excel table element statistics and deletion
 - [wechat_friends_analyse](https://github.com/Henry-Jia/python-tools/tree/master/wechat_friends_analyse): WeChat friends statistics and analysis tools
 
--[factorial.py](https://github.com/Henry-Jia/python-tools/blob/master/factorial.py): A simple program to calculate the factorial of a number 
