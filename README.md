@@ -15,6 +15,7 @@ Welcome everyone to contribute to this project!
 - [electricity_consumption.py](https://github.com/Henry-Jia/python-tools/blob/master/electricity_consumption.py): calculates electricity consumed
 - [factorial.py](https://github.com/Henry-Jia/python-tools/blob/master/factorial.py): a simple program to calculate the factorial of a number 
 - [fibonacci.py](https://github.com/Henry-Jia/python-tools/blob/master/fibonacci.py): there're 2 algorithms that make the fibonacci with recursive and looping
+- [igdata.py](https://github.com/Henry-Jia/python-tools/blob/master/igdata.py): Instagram Scraper, Scrapes data from public instagram profile and posts and saves it into json file.
 - [img2video.py](https://github.com/Henry-Jia/python-tools/blob/master/img2video.py): turn images to video
 - [insfans_bot.py](https://github.com/Henry-Jia/python-tools/blob/master/insfans.py): Ins bot for fans
 - [keylogger](https://github.com/Henry-Jia/python-tools/tree/master/keylogger)
