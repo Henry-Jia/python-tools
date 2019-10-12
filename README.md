@@ -29,6 +29,7 @@ Welcome everyone to contribute to this project!
 - [random_walk.py](https://github.com/Henry-Jia/python-tools/blob/master/random_walk.py)
 - [rotany_cipher.py](https://github.com/Henry-Jia/python-tools/blob/master/rotany_cipher.py): rot any cipher
 - [search_commits.py](https://github.com/Henry-Jia/python-tools/blob/master/search_commits.py): a program that returns commits that contain specific words, inspired by a random bot of Instagram
+- [simple_calculator.py](https://github.com/Henry-Jia/python-tools/blob/master/simple_calculator.py): making a simple calculator which can perform operations like addition, subtraction, multiplication and division
 - [singly_linked_list.py](https://github.com/Henry-Jia/python-tools/blob/master/singly_linked_list.py): singly linked list with python
 - [snake.py](https://github.com/Henry-Jia/python-tools/blob/master/snake.py): a simple snake game
 - [sort_n_numbers.py](https://github.com/Henry-Jia/python-tools/blob/master/sort_n_numbers.py): a program to sort n numbers
