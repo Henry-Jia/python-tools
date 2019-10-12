@@ -42,3 +42,30 @@ Welcome everyone to contribute to this project!
 - [webcrawler.py](https://github.com/Henry-Jia/python-tools/blob/master/webcrawler.py): this is a website crawler written by using selenium framework for automation
 - [wechat_friends_analyse](https://github.com/Henry-Jia/python-tools/tree/master/wechat_friends_analyse): WeChat friends statistics and analysis tools
 
+## Contributors
+
+<a href="https://github.com/Henry-Jia">  
+    <img src="https://avatars2.githubusercontent.com/u/23567225?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/mihirukongahage">  
+    <img src="https://avatars2.githubusercontent.com/u/34188669?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/sun-fox">  
+    <img src="https://avatars1.githubusercontent.com/u/39754412?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/d4n1">  
+    <img src="https://avatars1.githubusercontent.com/u/537854?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/anandmohan4143">  
+    <img src="https://avatars0.githubusercontent.com/u/32757675?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/akshayraichur">  
+    <img src="https://avatars1.githubusercontent.com/u/16524592?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/Cutwell">  
+    <img src="https://avatars2.githubusercontent.com/u/22395357?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/ye1dos">  
+    <img src="https://avatars3.githubusercontent.com/u/39968522?s=460&v=4" width="45px">
+</a>
+
