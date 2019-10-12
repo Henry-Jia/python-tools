@@ -36,4 +36,5 @@ Welcome everyone to contribute to this project!
 - [table_element_statistics_and_deletion.py](https://github.com/Henry-Jia/python-tools/blob/master/table_element_statistics_and_deletion.py): excel table element statistics and deletion
 - [webcrawler.py](https://github.com/Henry-Jia/python-tools/blob/master/webcrawler.py): this is a website crawler written by using selenium framework for automation
 - [wechat_friends_analyse](https://github.com/Henry-Jia/python-tools/tree/master/wechat_friends_analyse): WeChat friends statistics and analysis tools
+- [markov/main.py](https://github.com/Henry-Jia/python-tools/blob/master/markov/main.py): A Markov Chain example using "A Christmas Carol"
 
