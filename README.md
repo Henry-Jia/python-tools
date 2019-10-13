@@ -18,20 +18,26 @@ Welcome everyone to contribute to this project!
 - [factorial.py](https://github.com/Henry-Jia/python-tools/blob/master/factorial.py): a simple program to calculate the factorial of a number
 - [fan_pattern.py](https://github.com/Henry-Jia/python-tools/blob/master/fan_pattern.py): a challenging pattern program in python
 - [fibonacci.py](https://github.com/Henry-Jia/python-tools/blob/master/fibonacci.py): there're 2 algorithms that make the fibonacci with recursive and looping
+- [gcd.py](https://github.com/Henry-Jia/python-tools/blob/master/gcd.py): calculate the greatest common divisor
 - [igdata.py](https://github.com/Henry-Jia/python-tools/blob/master/igdata.py): Instagram Scraper, Scrapes data from public instagram profile and posts and saves it into json file.
 - [image_stitching.py](https://github.com/Henry-Jia/python-tools/blob/master/image_stitching.py): stitching images using opencv
 - [imagerecognition.py](https://github.com/Henry-Jia/python-tools/blob/master/imagerecognition.py): facial recognition in python
 - [img2video.py](https://github.com/Henry-Jia/python-tools/blob/master/img2video.py): turn images to video
 - [insfans_bot.py](https://github.com/Henry-Jia/python-tools/blob/master/insfans.py): Ins bot for fans
 - [keylogger](https://github.com/Henry-Jia/python-tools/tree/master/keylogger)
+- [lcm.py](https://github.com/Henry-Jia/python-tools/blob/master/lcm.py): calculate the least common multiple
+- [linked_list.py](https://github.com/Henry-Jia/python-tools/blob/master/linked_list.py): singly linked list insertion and display
 - [masking(opencv).py](https://github.com/Henry-Jia/python-tools/blob/master/masking(opencv).py)
 - [markov/main.py](https://github.com/Henry-Jia/python-tools/blob/master/markov/main.py): a Markov Chain example using "A Christmas Carol"
 - [nasa_photo_day.py](https://github.com/Henry-Jia/python-tools/blob/master/nasa_photo_day.py): downloads an image from NASA's photo of the day website and sets it as the desktop image
 - [number_palindrome.py](https://github.com/Henry-Jia/python-tools/blob/master/number_palindrome.py): program to check number palindrome
 - [palindrome.py](https://github.com/Henry-Jia/python-tools/blob/master/palindrome.py): Python code to check if the input string is a palindrome
+- [parallelogram_pattern.py](https://github.com/Henry-Jia/python-tools/blob/master/parallelogram_pattern.py): parallelogram pattern program
+- [piglatin.py](https://github.com/Henry-Jia/python-tools/blob/master/piglatin.py): translates text to "pig latin"
 - [portscanner.py](https://github.com/Henry-Jia/python-tools/blob/master/portscanner.py): this small port scanner program will try to connect on every port you define for a particular host
 - [prime_number.py](https://github.com/Henry-Jia/python-tools/blob/master/prime_number.py): check prime number
 - [random_walk.py](https://github.com/Henry-Jia/python-tools/blob/master/random_walk.py)
+- [result_checker.py](https://github.com/Henry-Jia/python-tools/blob/master/result_checker.py): this helper file helps you scrape for result notification on your university website
 - [rotany_cipher.py](https://github.com/Henry-Jia/python-tools/blob/master/rotany_cipher.py): rot any cipher
 - [search_commits.py](https://github.com/Henry-Jia/python-tools/blob/master/search_commits.py): a program that returns commits that contain specific words, inspired by a random bot of Instagram
 - [simple_calculator.py](https://github.com/Henry-Jia/python-tools/blob/master/simple_calculator.py): making a simple calculator which can perform operations like addition, subtraction, multiplication and division
@@ -65,6 +71,9 @@ Welcome everyone to contribute to this project!
 <a href="https://github.com/Cutwell">  
     <img src="https://avatars2.githubusercontent.com/u/22395357?s=460&v=4" width="45px">
 </a>
+<a href="https://github.com/Blesson2598">  
+    <img src="https://avatars0.githubusercontent.com/u/46119418?s=460&v=4" width="45px">
+</a>
 <a href="https://github.com/ye1dos">  
     <img src="https://avatars3.githubusercontent.com/u/39968522?s=460&v=4" width="45px">
 </a>
@@ -92,6 +101,9 @@ Welcome everyone to contribute to this project!
 <a href="https://github.com/k4rth1v1gn3sh">  
     <img src="https://avatars1.githubusercontent.com/u/46532955?s=460&v=4" width="45px">
 </a>
+<a href="https://github.com/iamibi">  
+    <img src="https://avatars2.githubusercontent.com/u/8592115?s=460&v=4" width="45px">
+</a>
 <a href="https://github.com/dzvlfi">  
     <img src="https://avatars2.githubusercontent.com/u/15355027?s=460&v=4" width="45px">
 </a>
@@ -113,6 +125,9 @@ Welcome everyone to contribute to this project!
 <a href="https://github.com/Ngrover24198">  
     <img src="https://avatars3.githubusercontent.com/u/33003962?s=460&v=4" width="45px">
 </a>
+<a href="https://github.com/MatthewEnnis">  
+    <img src="https://avatars3.githubusercontent.com/u/55544151?s=460&v=4" width="45px">
+</a>
 <a href="https://github.com/Kuljeet-123">  
     <img src="https://avatars3.githubusercontent.com/u/48275443?s=460&v=4" width="45px">
 </a>
@@ -122,9 +137,10 @@ Welcome everyone to contribute to this project!
 <a href="https://github.com/Chingling152">  
     <img src="https://avatars0.githubusercontent.com/u/10393594?s=460&v=4" width="45px">
 </a>
-<a href="https://github.com/Blesson2598">  
-    <img src="https://avatars0.githubusercontent.com/u/46119418?s=460&v=4" width="45px">
+<a href="https://github.com/Hemant-60">  
+    <img src="https://avatars1.githubusercontent.com/u/38358739?s=460&v=4" width="45px">
 </a>
 <a href="https://github.com/Arpita-Gupta1902">  
     <img src="https://avatars2.githubusercontent.com/u/48728584?s=460&v=4" width="45px">
 </a>
+
