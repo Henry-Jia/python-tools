@@ -1,0 +1,4 @@
+import re
+
+txt = "The rain in Spain"
+x = re.search("^The.*Spain$", txt) ##Returns True if the txt matches pattern 'The' in start and 'Spain' in the end.
