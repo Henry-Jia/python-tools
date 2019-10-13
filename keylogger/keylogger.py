@@ -32,6 +32,7 @@ def onRelease(key):
     if key == Key.esc:
         return False
 
-
-with Listener(on_press=onPress, on_release=onRelease) as listener:
-    listener.join()
+# now you can use this a module without any bug.
+if __name__ == '__main__':
+    with Listener(on_press=onPress, on_release=onRelease) as listener:
+        listener.join()
