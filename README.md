@@ -38,6 +38,7 @@ Welcome everyone to contribute to this project!
 - [portscanner.py](https://github.com/Henry-Jia/python-tools/blob/master/portscanner.py): this small port scanner program will try to connect on every port you define for a particular host
 - [prime_number.py](https://github.com/Henry-Jia/python-tools/blob/master/prime_number.py): check prime number
 - [random_walk.py](https://github.com/Henry-Jia/python-tools/blob/master/random_walk.py)
+- [regular_expressions](https://github.com/Henry-Jia/python-tools/blob/master/regular_expressions): a simple program to get started with regular expressions
 - [result_checker.py](https://github.com/Henry-Jia/python-tools/blob/master/result_checker.py): this helper file helps you scrape for result notification on your university website
 - [rotany_cipher.py](https://github.com/Henry-Jia/python-tools/blob/master/rotany_cipher.py): rot any cipher
 - [search_commits.py](https://github.com/Henry-Jia/python-tools/blob/master/search_commits.py): a program that returns commits that contain specific words, inspired by a random bot of Instagram
@@ -146,5 +147,8 @@ Welcome everyone to contribute to this project!
 </a>
 <a href="https://github.com/MkshSahani">
     <img src="https://avatars0.githubusercontent.com/u/52211262?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/KushagraMakharia">
+    <img src="https://avatars2.githubusercontent.com/u/17781706?s=460&v=4" width="45px">
 </a>
 
