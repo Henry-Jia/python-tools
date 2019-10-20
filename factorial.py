@@ -14,3 +14,13 @@ for i in range(1, num + 1):
     factorial = factorial * i
 print('The factorial of ', num, 'is', factorial)
 
+
+## recursive way of finding the factorial 
+
+def fact(num):
+    if num == 0:
+        return 1
+    else:
+        return num * fact(num-1)
+
+print(fact(num))    
