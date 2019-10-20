@@ -1,0 +1,21 @@
+import re
+## A small guide for introduction to regular expressions
+txt = "The rain in Spain"
+x = re.search("^The.*Spain$", txt) ##Returns True if the txt matches pattern 'The' in start and 'Spain' in the end.
+
+def verify_email(txt): ## Verify via regular expression if a text is an email addresss.
+  pattern = '.*@.*.'
+  if re.search(pattern,txt):
+    return True
+  else:
+    return False
+    
+def is_whitespace(txt):  ## Check for whitespaces in the string
+  if re.match('.* .*',txt) or re.match('.*  .*',txt):
+    return True
+  else:
+    return False
+    
+def rmv_special(txt): ## Remove Special Characters from a given string
+  txt = re.sub('[!@#$%^&*()_-+=|:;"<>,.?/]','',txt)
+  return txt
