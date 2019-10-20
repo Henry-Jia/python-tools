@@ -47,6 +47,7 @@ Welcome everyone to contribute to this project!
 - [snake.py](https://github.com/Henry-Jia/python-tools/blob/master/snake.py): a simple snake game
 - [sort_n_numbers.py](https://github.com/Henry-Jia/python-tools/blob/master/sort_n_numbers.py): a program to sort n numbers
 - [table_element_statistics_and_deletion.py](https://github.com/Henry-Jia/python-tools/blob/master/table_element_statistics_and_deletion.py): excel table element statistics and deletion
+- [tic_tac.py](https://github.com/Henry-Jia/python-tools/blob/master/tic_tac.py): Tic Tac Toe Game
 - [webcrawler.py](https://github.com/Henry-Jia/python-tools/blob/master/webcrawler.py): this is a website crawler written by using selenium framework for automation
 - [wechat_friends_analyse](https://github.com/Henry-Jia/python-tools/tree/master/wechat_friends_analyse): WeChat friends statistics and analysis tools
 
@@ -150,5 +151,8 @@ Welcome everyone to contribute to this project!
 </a>
 <a href="https://github.com/KushagraMakharia">
     <img src="https://avatars2.githubusercontent.com/u/17781706?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/yash2189">
+    <img src="https://avatars3.githubusercontent.com/u/31548778?s=460&v=4" width="45px">
 </a>
 
